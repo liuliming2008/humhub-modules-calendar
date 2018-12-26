@@ -17,6 +17,6 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Calendar' => '',
-    'Receive Calendar related Notifications.' => '',
+    'Calendar' => '日历',
+    'Receive Calendar related Notifications.' => '接收日历相关的通知',
 ];
